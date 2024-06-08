@@ -1,1 +1,3 @@
 this is my HW to practice using GIT
+
+it's withing the scope of the course on Automation
