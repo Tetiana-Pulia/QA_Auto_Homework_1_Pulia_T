@@ -1,2 +1,1 @@
-
-it's withing the scope of the course on Automation
+this is my HW to practice using terrible GIT
