@@ -1,7 +1,5 @@
 
-this is
-my HW to 
-practice using terrible GIT
-4u3534934-0340
-jndfojgjiojp
+this is my HW to practice using GIT
+
+it's withing the scope of the course on Automation
 
